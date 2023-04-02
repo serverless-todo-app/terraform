@@ -1,0 +1,5 @@
+{
+    "version": "2.0",
+    "routeKey": "PUT /items",
+    "body":"{\"id\": \"123\", \"price\": 12345, \"name\": \"myitem\"}"
+}
