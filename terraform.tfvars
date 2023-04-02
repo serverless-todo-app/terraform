@@ -1,0 +1,1 @@
+tableName = "todo-dynamodb-table"
